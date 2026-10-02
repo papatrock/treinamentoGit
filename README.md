@@ -1,4 +1,4 @@
-# TreinamentoGit
+# treinamentoGit
 
 ## Clonar o projeto
 
